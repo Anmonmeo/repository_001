@@ -1,0 +1,5 @@
+*忽略当前目录下的crybaby.html文件
+/crybaby.html
+
+*忽略test目录
+test/
